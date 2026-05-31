@@ -1,6 +1,6 @@
 # Exercicios_CI_Digital
 
-Repositório de atividades práticas da disciplina de **Circuitos Integrados Digitais**, desenvolvidas em Verilog com simulação via Icarus Verilog e GTKWave.
+Neste repositório constam as tarefas relacionadas à semana de 25/05. Os exercícios estão organizados conforme os respetivos dias: exercício do dia 25/05 (segunda-feira), 26/05 (terça-feira) e 29/05 (sexta-feira). As pastas Doc são referentes aos relatórios dos exercícios propostos.
 
 ---
 
@@ -143,10 +143,6 @@ sudo apt install iverilog gtkwave
 git clone https://github.com/Nambundo/Exercicios_CI_Digital.git
 cd Exercicios_CI_Digital
 
-# Adicionar ficheiros
-git add .
-git commit -m "Adicionar exercícios Ex_25_05, Ex_26_05 e Ex_29_05"
-git push origin main
 ```
 
 ---
